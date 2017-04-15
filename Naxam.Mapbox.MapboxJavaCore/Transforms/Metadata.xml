@@ -7,4 +7,7 @@
   This sample removes the method: android.support.v4.content.CursorLoader.loadInBackground:
   <remove-node path="/api/package[@name='android.support.v4.content']/class[@name='CursorLoader']/method[@name='loadInBackground']" />
   -->
+	<attr path="/api/package[@name='com.mapbox.services']" name="managedName">Mapbox.Services</attr>
+	<attr path="/api/package[@name='com.mapbox.services.commons.models']" name="managedName">Mapbox.Services.Commons.Models</attr>
+	<attr path="/api/package[@name='com.mapbox.services.commons.utils']" name="managedName">Mapbox.Services.Commons.Utils</attr>
 </metadata>
