@@ -6,6 +6,10 @@
 [Bb]in/
 packages/
 TestResults/
+.vscode/
+.vs/
+tools/
+nugets/
 
 # globs
 Makefile.in
